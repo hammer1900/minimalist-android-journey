@@ -2,3 +2,6 @@ theme: minima
 title: Minimalist Android Journey
 description: >-
   Documenting my journey to Android minimalism.
+permalink: /:year/:month/:day/:title/
+markdown: kramdown
+highlighter: rouge
